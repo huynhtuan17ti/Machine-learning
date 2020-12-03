@@ -1,2 +1,2 @@
-# Maching-learning
-# Demo gradient descent
+# Demo gradient descent  
+An overview how do gradient descent work
